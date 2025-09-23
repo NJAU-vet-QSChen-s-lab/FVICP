@@ -1,0 +1,10 @@
+Folder_Name,Learning_Rate,Hidden_Size,Optimizer,Activation,Validation,Layers,Generalize Accuracy
+fascia_CPTC,0.01,128,Adam,ELU,99.88,5,96.19
+fascia_FC,0.01,128,Adam,ReLU,100,4,68.15
+fascia_EC,0.01,31,RMSprop,Hardswish,100,7,95.09
+fascia_ETC,0.01,44,RMSprop,ELU,100,5,65.27
+fascia_MC,0.01,128,Adam,ELU,100,4,97.86
+fascia_MuC,0.01,128,Adam,Hardswish,100,4,90.08
+fascia_MuSC,0.01,128,Adam,ELU,100,4,56.48
+fascia_LP,0.01,128,Adam,ELU,100,4,90.26
+fascia_Others,0.01,128,Adam,ELU,100,4,56.48
