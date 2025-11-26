@@ -1,5 +1,9 @@
 # Scripts for Single-Cell Research Paper | 单细胞研究论文脚本集
 
+![alt text](graph_abstract.jpg)
+
+download paper here:https://www.sciencedirect.com/science/article/pii/S200103702500399X
+
 **English** | **中文**
 
 This repository contains all scripts for the computational biology part of a single-cell research project, covering data preprocessing, feature engineering, deep learning model training and evaluation, and model interpretability. The scripts are organized into three main modules: `scRNA` (R-based single-cell analysis), `deeplearning` (deep learning and feature interpretation), and `diagnose_cross_validation` (cross-validation and visualization).
